@@ -3,7 +3,7 @@ import java.util.Hashtable;
 
 public class TwoNumberSum {
 
-
+    // find leet code question here : https://leetcode.com/problems/two-sum
     public static void main(String[] args) {
 
         int[] array = new int[]{2, 5, 7, 13, 12, 4};
